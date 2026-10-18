@@ -1,0 +1,6 @@
+{
+  "name": "Estate Flow — Verified Real Estate Marketplace Platform",
+  "description": "RERA-verified single-listing real estate marketplace platform with mandatory guided intake, dynamic configuration-matched pricing, inline TCO breakdowns, and interactive financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
